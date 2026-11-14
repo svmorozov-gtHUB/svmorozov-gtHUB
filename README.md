@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 * 📊 **[Вычисление метрик. Дашборд. Анализ результатов A/B-теста](https://github.com/svmorozov-gtHUB/Yprojects/tree/1c4bc024e8ad2fa5ae563f9b675f81120607dbe2/Yafisha)** 
 * 📱 **[Расчет ключевых метрик, Проверка гипотез. Анализ результатов A/B-тест](https://github.com/svmorozov-gtHUB/Yprojects/tree/1c4bc024e8ad2fa5ae563f9b675f81120607dbe2/Books)**
+* 📱 **[Подготовка и проведение A/B - теста](AB-Testing)**
 <!--* 🗄 **[Оптимизация SQL-запросов](ссылка_на_папку_или_ноутбук)** — Сборник бизнес-скриптов с оконными функциями для выгрузки сквозных метрик из базы данных.-->
 
 ---
